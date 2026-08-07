@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 310" width="480" height="310" role="img" aria-label="Database Migration Automation: zero-downtime migration framework provisioning RDS, replicating schemas and running DMS full-load plus CDC into Kafka. 0 seconds downtime, 1.1 billion rows synced, 148 tables. Built with Python, Boto3, AWS DMS, Debezium and Kafka.">
+  <defs>
+    <linearGradient id="dAccent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="480" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="dGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.20"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="dClip"><rect x="1" y="1" width="478" height="308" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#dClip)">
+    <rect width="480" height="310" fill="#0B0E13"/>
+    <ellipse cx="430" cy="10" rx="230" ry="140" fill="url(#dGlow)"/>
+    <rect width="480" height="5" fill="url(#dAccent)"/>
+
+    <text x="22" y="46" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
+          font-size="20" font-weight="700" fill="#F0F6FC">DB Migration</text>
+    <g transform="translate(378 30)">
+      <rect width="80" height="22" rx="11" fill="#1B2410" stroke="#7DF9A8" stroke-width="1.3"/>
+      <circle cx="14" cy="11" r="4" fill="#7DF9A8"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <text x="26" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+            font-size="10.5" font-weight="700" fill="#7DF9A8">LIVE</text>
+    </g>
+
+    <text x="22" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#9BA7B4">Provisions RDS, replicates schemas, runs</text>
+    <text x="22" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#9BA7B4">DMS full-load + CDC streaming into Kafka.</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <g transform="translate(22 108)">
+        <rect width="136" height="52" rx="9" fill="#111721" stroke="#2A3441" stroke-width="1.3"/>
+        <text x="12" y="26" font-size="19" font-weight="700" fill="#7DF9A8">0s</text>
+        <text x="12" y="42" font-size="9.5" fill="#8B98A8">DOWNTIME</text>
+      </g>
+      <g transform="translate(170 108)">
+        <rect width="136" height="52" rx="9" fill="#111721" stroke="#2A3441" stroke-width="1.3"/>
+        <text x="12" y="26" font-size="19" font-weight="700" fill="#22D3EE">1.1B</text>
+        <text x="12" y="42" font-size="9.5" fill="#8B98A8">ROWS SYNCED</text>
+      </g>
+      <g transform="translate(318 108)">
+        <rect width="140" height="52" rx="9" fill="#111721" stroke="#2A3441" stroke-width="1.3"/>
+        <text x="12" y="26" font-size="19" font-weight="700" fill="#A78BFA">148</text>
+        <text x="12" y="42" font-size="9.5" fill="#8B98A8">TABLES</text>
+      </g>
+    </g>
+
+    <!-- CDC pipeline: packets flowing source → DMS → Kafka -->
+    <text x="22" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="10" font-weight="700" letter-spacing="1.3" fill="#6C7887">CHANGE DATA CAPTURE · STREAMING</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="700">
+      <g transform="translate(22 200)"><rect width="96" height="42" rx="8" fill="#111721" stroke="#4169E1" stroke-width="1.6"/><text x="14" y="18" fill="#F0F6FC">POSTGRES</text><text x="14" y="32" fill="#6C7887">SOURCE</text></g>
+      <g transform="translate(192 200)"><rect width="96" height="42" rx="8" fill="#111721" stroke="#FF9900" stroke-width="1.6"/><text x="28" y="18" fill="#F0F6FC">DMS</text><text x="18" y="32" fill="#6C7887">+ CDC</text></g>
+      <g transform="translate(362 200)"><rect width="96" height="42" rx="8" fill="#111721" stroke="#8B5CF6" stroke-width="1.6"/><text x="26" y="18" fill="#F0F6FC">KAFKA</text><text x="20" y="32" fill="#6C7887">TARGET</text></g>
+    </g>
+    <line x1="118" y1="221" x2="192" y2="221" stroke="#2A3441" stroke-width="2"/>
+    <line x1="288" y1="221" x2="362" y2="221" stroke="#2A3441" stroke-width="2"/>
+    <circle r="4" fill="#22D3EE"><animateMotion dur="1.6s" repeatCount="indefinite" path="M118 221 L192 221"/></circle>
+    <circle r="4" fill="#A78BFA"><animateMotion dur="1.6s" begin="0.5s" repeatCount="indefinite" path="M288 221 L362 221"/></circle>
+    <circle r="4" fill="#22D3EE" opacity="0.55"><animateMotion dur="1.6s" begin="0.8s" repeatCount="indefinite" path="M118 221 L192 221"/></circle>
+    <circle r="4" fill="#A78BFA" opacity="0.55"><animateMotion dur="1.6s" begin="1.3s" repeatCount="indefinite" path="M288 221 L362 221"/></circle>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="700">
+      <g transform="translate(22 278)"><rect width="58" height="20" rx="4" fill="#3776AB"/><text x="9" y="14" fill="#FFFFFF">PYTHON</text></g>
+      <g transform="translate(86 278)"><rect width="52" height="20" rx="4" fill="#FF9900"/><text x="9" y="14" fill="#0B0E13">BOTO3</text></g>
+      <g transform="translate(144 278)"><rect width="76" height="20" rx="4" fill="#FFAD33"/><text x="9" y="14" fill="#0B0E13">AWS DMS</text></g>
+      <g transform="translate(226 278)"><rect width="74" height="20" rx="4" fill="#EE0000"/><text x="9" y="14" fill="#FFFFFF">DEBEZIUM</text></g>
+      <g transform="translate(306 278)"><rect width="52" height="20" rx="4" fill="#8B5CF6"/><text x="9" y="14" fill="#FFFFFF">KAFKA</text></g>
+      <text x="458" y="292" text-anchor="end" font-size="11" fill="#22D3EE">OPEN →</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="478" height="308" rx="14" fill="none" stroke="#2A3441" stroke-width="2"/>
+</svg>

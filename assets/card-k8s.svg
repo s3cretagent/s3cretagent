@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 310" width="480" height="310" role="img" aria-label="Kubernetes Cluster Provisioning: reusable Terraform modules provisioning 25 EKS clusters with IAM and IRSA, plus a Helm chart library onboarding a service in under 30 minutes at 99.95% uptime. Built with Terraform, EKS, Helm and IAM/IRSA.">
+  <defs>
+    <linearGradient id="kAccent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="480" y2="0">
+      <stop offset="0" stop-color="#EAFF7A"/><stop offset="1" stop-color="#7DF9A8"/>
+    </linearGradient>
+    <radialGradient id="kGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#C6F24E" stop-opacity="0.20"/><stop offset="1" stop-color="#C6F24E" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="kClip"><rect x="1" y="1" width="478" height="308" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#kClip)">
+    <rect width="480" height="310" fill="#0B0E13"/>
+    <ellipse cx="430" cy="10" rx="230" ry="140" fill="url(#kGlow)"/>
+    <rect width="480" height="5" fill="url(#kAccent)"/>
+
+    <text x="22" y="46" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
+          font-size="20" font-weight="700" fill="#F0F6FC">EKS Provisioning</text>
+    <g transform="translate(378 30)">
+      <rect width="80" height="22" rx="11" fill="#1B2410" stroke="#7DF9A8" stroke-width="1.3"/>
+      <circle cx="14" cy="11" r="4" fill="#7DF9A8"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <text x="26" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+            font-size="10.5" font-weight="700" fill="#7DF9A8">LIVE</text>
+    </g>
+
+    <text x="22" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#9BA7B4">Reusable Terraform modules with IAM/IRSA,</text>
+    <text x="22" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#9BA7B4">plus a Helm library for instant onboarding.</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <g transform="translate(22 108)">
+        <rect width="136" height="52" rx="9" fill="#111721" stroke="#2A3441" stroke-width="1.3"/>
+        <text x="12" y="26" font-size="19" font-weight="700" fill="#EAFF7A">25</text>
+        <text x="12" y="42" font-size="9.5" fill="#8B98A8">EKS CLUSTERS</text>
+      </g>
+      <g transform="translate(170 108)">
+        <rect width="136" height="52" rx="9" fill="#111721" stroke="#2A3441" stroke-width="1.3"/>
+        <text x="12" y="26" font-size="19" font-weight="700" fill="#F97316">&lt;30m</text>
+        <text x="12" y="42" font-size="9.5" fill="#8B98A8">ONBOARDING</text>
+      </g>
+      <g transform="translate(318 108)">
+        <rect width="140" height="52" rx="9" fill="#111721" stroke="#2A3441" stroke-width="1.3"/>
+        <text x="12" y="26" font-size="19" font-weight="700" fill="#7DF9A8">99.95%</text>
+        <text x="12" y="42" font-size="9.5" fill="#8B98A8">UPTIME</text>
+      </g>
+    </g>
+
+    <!-- pod grid coming up healthy, cluster by cluster -->
+    <text x="22" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="10" font-weight="700" letter-spacing="1.3" fill="#6C7887">NODE GROUPS · ROLLING HEALTHY</text>
+    <g>
+      <rect x="22"  y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="22"  y="196" width="30" height="22" rx="4" fill="#EAFF7A" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.1s" fill="freeze"/></rect>
+      <rect x="58"  y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="58"  y="196" width="30" height="22" rx="4" fill="#EAFF7A" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze"/></rect>
+      <rect x="94"  y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="94"  y="196" width="30" height="22" rx="4" fill="#7DF9A8" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.3s" fill="freeze"/></rect>
+      <rect x="130" y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="130" y="196" width="30" height="22" rx="4" fill="#7DF9A8" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.4s" fill="freeze"/></rect>
+      <rect x="166" y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="166" y="196" width="30" height="22" rx="4" fill="#4CD8F5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.5s" fill="freeze"/></rect>
+      <rect x="202" y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="202" y="196" width="30" height="22" rx="4" fill="#4CD8F5" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.6s" fill="freeze"/></rect>
+      <rect x="238" y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="238" y="196" width="30" height="22" rx="4" fill="#A78BFA" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.7s" fill="freeze"/></rect>
+      <rect x="274" y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="274" y="196" width="30" height="22" rx="4" fill="#A78BFA" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.8s" fill="freeze"/></rect>
+      <rect x="310" y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="310" y="196" width="30" height="22" rx="4" fill="#FBBF24" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.9s" fill="freeze"/></rect>
+      <rect x="346" y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="346" y="196" width="30" height="22" rx="4" fill="#FBBF24" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.0s" fill="freeze"/></rect>
+      <rect x="382" y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="382" y="196" width="30" height="22" rx="4" fill="#7DF9A8" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.1s" fill="freeze"/></rect>
+      <rect x="418" y="196" width="30" height="22" rx="4" fill="#1A222E"/><rect x="418" y="196" width="30" height="22" rx="4" fill="#7DF9A8" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.2s" fill="freeze"/></rect>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">
+      <text x="22" y="240" fill="#6C7887">apply complete</text>
+      <text x="132" y="240" fill="#7DF9A8">25 added, 0 destroyed</text>
+      <text x="22" y="258" fill="#6C7887">helm upgrade</text>
+      <text x="132" y="258" fill="#EAFF7A">service onboarded in 26m</text>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="700">
+      <g transform="translate(22 278)"><rect width="76" height="20" rx="4" fill="#7B42BC"/><text x="9" y="14" fill="#FFFFFF">TERRAFORM</text></g>
+      <g transform="translate(104 278)"><rect width="40" height="20" rx="4" fill="#FF9900"/><text x="9" y="14" fill="#0B0E13">EKS</text></g>
+      <g transform="translate(150 278)"><rect width="46" height="20" rx="4" fill="#0F1689"/><text x="9" y="14" fill="#FFFFFF">HELM</text></g>
+      <g transform="translate(202 278)"><rect width="80" height="20" rx="4" fill="#326CE5"/><text x="9" y="14" fill="#FFFFFF">IAM / IRSA</text></g>
+      <text x="458" y="292" text-anchor="end" font-size="11" fill="#EAFF7A">OPEN →</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="478" height="308" rx="14" fill="none" stroke="#2A3441" stroke-width="2"/>
+</svg>

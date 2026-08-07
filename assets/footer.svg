@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Open to conversations about reliability, platform engineering and cloud cost. Contact shubhmalhotra07@gmail.com or visit s3cretagent.github.io/portfolio">
+  <defs>
+    <linearGradient id="fName" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0"    stop-color="#EAFF7A"/>
+      <stop offset="0.35" stop-color="#7DF9A8"/>
+      <stop offset="0.7"  stop-color="#4CD8F5"/>
+      <stop offset="1"    stop-color="#C4B5FD"/>
+    </linearGradient>
+    <radialGradient id="fGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.26"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="fGrid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#232C38" stroke-width="1"/>
+    </pattern>
+    <clipPath id="fClip"><rect x="1" y="1" width="998" height="148" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#fClip)">
+    <rect width="1000" height="150" fill="#0B0E13"/>
+    <rect width="1000" height="150" fill="url(#fGrid)" opacity="0.8"/>
+    <ellipse cx="500" cy="150" rx="420" ry="150" fill="url(#fGlow)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 40 -14; -30 -8; 0 0" dur="18s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <text x="500" y="52" text-anchor="middle" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
+          font-size="23" font-weight="700" fill="#F0F6FC">Let's talk reliability, platforms and cloud cost.</text>
+    <text x="500" y="80" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="13" fill="#9BA7B4">Have a role, a reliability problem, or an infra project in mind?</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700">
+      <g transform="translate(276 96)">
+        <rect width="222" height="32" rx="16" fill="#EAFF7A"/>
+        <text x="111" y="21" text-anchor="middle" fill="#0B0E13">✉ shubhmalhotra07@gmail.com</text>
+      </g>
+      <g transform="translate(512 96)">
+        <rect width="212" height="32" rx="16" fill="#4CD8F5"/>
+        <text x="106" y="21" text-anchor="middle" fill="#0B0E13">🌐 VIEW FULL PORTFOLIO</text>
+      </g>
+    </g>
+
+    <rect x="0" y="146" width="200" height="4" fill="#EAFF7A"/>
+    <rect x="200" y="146" width="200" height="4" fill="#7DF9A8"/>
+    <rect x="400" y="146" width="200" height="4" fill="#4CD8F5"/>
+    <rect x="600" y="146" width="200" height="4" fill="#A78BFA"/>
+    <rect x="800" y="146" width="200" height="4" fill="#FBBF24"/>
+  </g>
+
+  <rect x="1" y="1" width="998" height="148" rx="14" fill="none" stroke="#2A3441" stroke-width="2"/>
+</svg>

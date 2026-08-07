@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 58" width="1000" height="58" role="img" aria-label="Section: Education and certifications">
+  <defs>
+    <linearGradient id="sdWash" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="700" y2="0">
+      <stop offset="0" stop-color="#FB7185" stop-opacity="0.22"/><stop offset="1" stop-color="#FB7185" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="sdClip"><rect x="1" y="1" width="998" height="56" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#sdClip)">
+    <rect width="1000" height="58" fill="#0B0E13"/>
+    <rect width="1000" height="58" fill="url(#sdWash)"/>
+    <rect width="7" height="58" fill="#FB7185"/>
+    <text x="28" y="36" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
+          font-size="19" font-weight="700" letter-spacing="0.4" fill="#F0F6FC">🎓  Education &amp; Certifications</text>
+    <g transform="translate(966 29)">
+      <circle r="5" fill="#FB7185"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+    </g>
+    <line x1="880" y1="29" x2="946" y2="29" stroke="#FB7185" stroke-width="2" stroke-dasharray="6 5" opacity="0.7">
+      <animate attributeName="stroke-dashoffset" from="22" to="0" dur="1.2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  <rect x="1" y="1" width="998" height="56" rx="12" fill="none" stroke="#2A3441" stroke-width="1.6"/>
+</svg>

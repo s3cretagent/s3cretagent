@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 310" width="480" height="310" role="img" aria-label="Cost Optimization Dashboard: multi-account cost observability with automated right-sizing. 25% cloud cost reduction, ~$50K saved per year, 5 AWS accounts. Built with Grafana, CloudWatch, Cost Explorer and Boto3.">
+  <defs>
+    <linearGradient id="cAccent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="480" y2="0">
+      <stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="cFill" gradientUnits="userSpaceOnUse" x1="0" y1="196" x2="0" y2="262">
+      <stop offset="0" stop-color="#FBBF24" stop-opacity="0.42"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="cGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FBBF24" stop-opacity="0.20"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="cClip"><rect x="1" y="1" width="478" height="308" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cClip)">
+    <rect width="480" height="310" fill="#0B0E13"/>
+    <ellipse cx="430" cy="10" rx="230" ry="140" fill="url(#cGlow)"/>
+    <rect width="480" height="5" fill="url(#cAccent)"/>
+
+    <text x="22" y="46" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
+          font-size="20" font-weight="700" fill="#F0F6FC">Cost Optimization</text>
+    <g transform="translate(378 30)">
+      <rect width="80" height="22" rx="11" fill="#1B2410" stroke="#7DF9A8" stroke-width="1.3"/>
+      <circle cx="14" cy="11" r="4" fill="#7DF9A8"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+      <text x="26" y="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+            font-size="10.5" font-weight="700" fill="#7DF9A8">LIVE</text>
+    </g>
+
+    <text x="22" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#9BA7B4">Spend per service, team and environment</text>
+    <text x="22" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#9BA7B4">in real time, with automated right-sizing.</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <g transform="translate(22 108)">
+        <rect width="136" height="52" rx="9" fill="#111721" stroke="#2A3441" stroke-width="1.3"/>
+        <text x="12" y="26" font-size="19" font-weight="700" fill="#FBBF24">−25%</text>
+        <text x="12" y="42" font-size="9.5" fill="#8B98A8">CLOUD COST</text>
+      </g>
+      <g transform="translate(170 108)">
+        <rect width="136" height="52" rx="9" fill="#111721" stroke="#2A3441" stroke-width="1.3"/>
+        <text x="12" y="26" font-size="19" font-weight="700" fill="#EAFF7A">~$50K</text>
+        <text x="12" y="42" font-size="9.5" fill="#8B98A8">SAVED / YEAR</text>
+      </g>
+      <g transform="translate(318 108)">
+        <rect width="140" height="52" rx="9" fill="#111721" stroke="#2A3441" stroke-width="1.3"/>
+        <text x="12" y="26" font-size="19" font-weight="700" fill="#4CD8F5">5</text>
+        <text x="12" y="42" font-size="9.5" fill="#8B98A8">AWS ACCOUNTS</text>
+      </g>
+    </g>
+
+    <!-- declining spend trace -->
+    <text x="22" y="184" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="10" font-weight="700" letter-spacing="1.3" fill="#6C7887">MONTHLY SPEND · TRENDING DOWN</text>
+    <line x1="22" y1="262" x2="458" y2="262" stroke="#2A3441" stroke-width="1.3"/>
+    <path d="M22 200 L58 206 L94 199 L130 214 L166 210 L202 224 L238 219 L274 234 L310 230 L346 242 L382 238 L418 249 L458 246 L458 262 L22 262 Z" fill="url(#cFill)"/>
+    <path d="M22 200 L58 206 L94 199 L130 214 L166 210 L202 224 L238 219 L274 234 L310 230 L346 242 L382 238 L418 249 L458 246"
+          fill="none" stroke="url(#cAccent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+          stroke-dasharray="470" stroke-dashoffset="470">
+      <animate attributeName="stroke-dashoffset" from="470" to="0" dur="2.2s" fill="freeze"/>
+    </path>
+    <circle r="4.5" fill="#FFFFFF" stroke="#FBBF24" stroke-width="2">
+      <animateMotion dur="2.2s" fill="freeze"
+        path="M22 200 L58 206 L94 199 L130 214 L166 210 L202 224 L238 219 L274 234 L310 230 L346 242 L382 238 L418 249 L458 246"/>
+    </circle>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="700">
+      <g transform="translate(22 278)"><rect width="60" height="20" rx="4" fill="#F46800"/><text x="9" y="14" fill="#0B0E13">GRAFANA</text></g>
+      <g transform="translate(88 278)"><rect width="86" height="20" rx="4" fill="#FF9900"/><text x="9" y="14" fill="#0B0E13">CLOUDWATCH</text></g>
+      <g transform="translate(180 278)"><rect width="100" height="20" rx="4" fill="#FBBF24"/><text x="9" y="14" fill="#0B0E13">COST EXPLORER</text></g>
+      <g transform="translate(286 278)"><rect width="52" height="20" rx="4" fill="#3776AB"/><text x="9" y="14" fill="#FFFFFF">BOTO3</text></g>
+      <text x="458" y="292" text-anchor="end" font-size="11" fill="#EAFF7A">OPEN →</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="478" height="308" rx="14" fill="none" stroke="#2A3441" stroke-width="2"/>
+</svg>

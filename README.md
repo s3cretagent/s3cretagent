@@ -1,15 +1,8 @@
 <div align="center">
 
 <a href="https://s3cretagent.github.io/portfolio/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/banner-light.svg" />
-    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/banner-dark.svg" alt="Shubh Malhotra — DevOps · SRE · Cloud Infrastructure" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/hero.svg" width="100%" alt="Shubh Malhotra — DevOps · SRE · Cloud Infrastructure. 50+ microservices on EKS, 99.95% uptime, 25 Terraform-provisioned clusters, ~$50K/year saved." />
 </a>
-
-**Software Engineer · DevOps / SRE / Cloud Infrastructure**
-`Bhopal, Madhya Pradesh, India` · 5+ years running production infrastructure
 
 <a href="https://s3cretagent.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-EAFF7A?style=for-the-badge&logo=googlechrome&logoColor=14181F" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/shubh-malhotra-881b47ab"><img src="https://img.shields.io/badge/LINKEDIN-4CD8F5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNCA3aDR2MTNINFY3Wm0yLTVhMi40IDIuNCAwIDEgMSAwIDQuOEEyLjQgMi40IDAgMCAxIDYgMlptNSA1aDMuOHYxLjhoLjA1QTQuMiA0LjIgMCAwIDEgMTguNSA2LjdjMyAwIDMuNSAxLjkgMy41IDQuNlYyMGgtNHYtN2MwLTEuNi0uMDMtMy4yLTItMy4ycy0yLjIgMS40LTIuMiAzLjFWMjBoLTMuOFY3WiIvPjwvc3ZnPg==&logoColor=14181F" alt="LinkedIn" /></a>
@@ -18,42 +11,46 @@
 
 </div>
 
----
+<br />
 
-## 🖥️ `$ whoami`
-
-```yaml
-role:      Software Engineer — DevOps / SRE
-platform:  Kubernetes (EKS) · 50+ microservices · 99.95%+ uptime SLA
-delivery:  Terraform IaC → ArgoCD GitOps → zero-downtime releases
-signal:    Prometheus · Grafana · Loki · PagerDuty · SLOs & error budgets
-focus:     reliability without the cost blowout — −35% MTTR, −20% cloud spend
-currently: Superhero Tech Pvt. Ltd. · Bengaluru
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/terminal.svg" width="100%" alt="whoami — Software Engineer (DevOps/SRE). Kubernetes EKS platform, 50+ microservices, 99.95%+ uptime SLA. Terraform IaC → ArgoCD GitOps → zero-downtime releases. Prometheus, Grafana, Loki, PagerDuty, SLOs and error budgets. 1M+ monthly users, 200+ Prometheus targets, 30+ repos. Currently at Superhero Tech Pvt. Ltd., Bengaluru." />
+</div>
 
 I design and operate the infrastructure that other engineers ship on: multi-AZ EKS clusters
 provisioned as code, GitOps delivery with instant rollback, and observability that catches
 problems before customers do — for platforms serving **1M+ monthly users**.
+Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production infrastructure.
 
----
+<br />
 
-## 📊 Production, by the numbers
+<div align="center">
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-telemetry.svg" width="100%" alt="Production, by the numbers" />
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/metrics.svg" width="100%" alt="Production telemetry: 50+ microservices, 25 EKS clusters, 99.95% uptime SLA, ~$50K saved per year. MTTR reduced 35%, cloud spend cut 20%, onboarding time cut 97%, manual deploy effort cut 70%, primary DB load cut 40%." />
+</div>
+
+<details>
+<summary><b>The same numbers as text</b></summary>
 
 | Impact | What it was |
 |:--|:--|
-| ![50+](https://img.shields.io/badge/50+-EAFF7A?style=for-the-badge) | microservices on a self-operated EKS platform |
-| ![25](https://img.shields.io/badge/25-7DF9A8?style=for-the-badge) | production EKS clusters provisioned via Terraform |
-| ![99.95%](https://img.shields.io/badge/99.95%25-4CD8F5?style=for-the-badge) | uptime SLA held on multi-AZ node groups |
-| ![~$50K per year](https://img.shields.io/badge/~$50K%2Fyr-FBBF24?style=for-the-badge) | cloud spend eliminated (−20%) via Savings Plans, RI analysis & autoscaling |
-| ![−35%](https://img.shields.io/badge/%E2%88%9235%25-FB7185?style=for-the-badge) | MTTR, after Prometheus (200+ targets) + Loki + PagerDuty rollout |
-| ![2 days to under 30 min](https://img.shields.io/badge/2_days_%E2%86%92_%3C30_min-A78BFA?style=for-the-badge) | new microservice onboarding, via a shared Helm chart library |
-| ![under 8 min](https://img.shields.io/badge/%3C8_min-34D399?style=for-the-badge) | PR feedback loop across 30+ repos (build · test · lint · Trivy · ECR) |
-| ![18+ months](https://img.shields.io/badge/18+_months-F97316?style=for-the-badge) | consecutive zero-downtime Blue-Green releases |
-| ![1.1B rows](https://img.shields.io/badge/1.1B_rows-22D3EE?style=for-the-badge) | migrated with zero downtime using DMS full-load + Debezium CDC |
+| **50+** | microservices on a self-operated EKS platform |
+| **25** | production EKS clusters provisioned via Terraform |
+| **99.95%+** | uptime SLA held on multi-AZ node groups |
+| **~$50K/yr** | cloud spend eliminated (−20%) via Savings Plans, RI analysis & autoscaling |
+| **−35%** | MTTR, after Prometheus (200+ targets) + Loki + PagerDuty rollout |
+| **2 days → <30 min** | new microservice onboarding, via a shared Helm chart library |
+| **<8 min** | PR feedback loop across 30+ repos (build · test · lint · Trivy · ECR) |
+| **18+ months** | consecutive zero-downtime Blue-Green releases |
+| **1.1B rows** | migrated with zero downtime using DMS full-load + Debezium CDC |
 
----
+</details>
 
-## 🧰 Toolbox
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-toolbox.svg" width="100%" alt="Toolbox" />
+</div>
 
 **☁️ Cloud & Compute**
 
@@ -104,63 +101,37 @@ problems before customers do — for platforms serving **1M+ monthly users**.
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-8B5CF6?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF)
 ![Debezium](https://img.shields.io/badge/Debezium_CDC-EE0000?style=for-the-badge&logo=redhat&logoColor=FFFFFF)
 
----
+<br />
 
-## 🚀 Live project dashboards
-
-> Each project ships a **real, interactive dashboard** — production-style telemetry you can click through, not screenshots.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-projects.svg" width="100%" alt="Live project dashboards — click any card" />
+</div>
 
 <table>
 <tr>
 <td width="33%" valign="top">
-
-### [☁️ Cost Optimization][cost]
-
-![−25% cloud cost](https://img.shields.io/badge/%E2%88%9225%25_cloud_cost-FBBF24?style=flat-square)
-![~$50K per year](https://img.shields.io/badge/~$50K_per_year-EAFF7A?style=flat-square)
-![5 accounts](https://img.shields.io/badge/5_accounts-4CD8F5?style=flat-square)
-
-Multi-account cost observability: spend per service, team and environment in real time, with automated right-sizing.
-
-`Grafana` `CloudWatch` `Cost Explorer` `Boto3`
-
+<a href="https://s3cretagent.github.io/projects/cost-optimisation/">
+<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-cost.svg" width="100%" alt="Cost Optimization Dashboard — −25% cloud cost, ~$50K saved per year, 5 AWS accounts. Grafana, CloudWatch, Cost Explorer, Boto3." />
+</a>
 </td>
 <td width="33%" valign="top">
-
-### [🗄️ DB Migration][db]
-
-![0s downtime](https://img.shields.io/badge/0s_downtime-7DF9A8?style=flat-square)
-![1.1B rows](https://img.shields.io/badge/1.1B_rows-22D3EE?style=flat-square)
-![148 tables](https://img.shields.io/badge/148_tables-A78BFA?style=flat-square)
-
-Zero-downtime migration framework — provisions RDS, replicates schemas, runs DMS full-load + CDC into Kafka.
-
-`Python` `Boto3` `AWS DMS` `Debezium` `Kafka`
-
+<a href="https://s3cretagent.github.io/projects/database-migration/">
+<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-db.svg" width="100%" alt="Database Migration Automation — 0s downtime, 1.1B rows synced, 148 tables. Python, Boto3, AWS DMS, Debezium, Kafka." />
+</a>
 </td>
 <td width="33%" valign="top">
-
-### [☸️ EKS Provisioning][k8s]
-
-![25 clusters](https://img.shields.io/badge/25_clusters-326CE5?style=flat-square)
-![under 30m onboarding](https://img.shields.io/badge/%3C30m_onboarding-F97316?style=flat-square)
-![99.95% uptime](https://img.shields.io/badge/99.95%25_uptime-7DF9A8?style=flat-square)
-
-Reusable Terraform modules for 25 EKS clusters with IAM/IRSA, plus a Helm library that onboards a service in minutes.
-
-`Terraform` `EKS` `Helm` `IAM/IRSA`
-
+<a href="https://s3cretagent.github.io/projects/kubernetes-provisioning/">
+<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-k8s.svg" width="100%" alt="Kubernetes Cluster Provisioning — 25 EKS clusters, under 30 minutes onboarding, 99.95% uptime. Terraform, EKS, Helm, IAM/IRSA." />
+</a>
 </td>
 </tr>
 </table>
 
-[cost]: https://s3cretagent.github.io/projects/cost-optimisation/
-[db]: https://s3cretagent.github.io/projects/database-migration/
-[k8s]: https://s3cretagent.github.io/projects/kubernetes-provisioning/
+<br />
 
----
-
-## 💼 Experience
+<div align="center">
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-experience.svg" width="100%" alt="Experience — 5+ years in production" />
+</div>
 
 ![Jul 2025 to now](https://img.shields.io/badge/JUL_2025_%E2%86%92_NOW-EAFF7A?style=for-the-badge) **Software Engineer, DevOps** — Superhero Tech Pvt. Ltd.
 > EKS platform for 50+ microservices (HPA/VPA/Cluster Autoscaler, multi-AZ). 25 Terraform-provisioned clusters with remote state + locking. ArgoCD app-of-apps GitOps — no more manual `kubectl apply` in prod. AWS hardening with WAF, GuardDuty, SCPs and CloudTrail.
@@ -171,9 +142,11 @@ Reusable Terraform modules for 25 EKS clusters with IAM/IRSA, plus a Helm librar
 ![Jun 2021 to Apr 2022](https://img.shields.io/badge/JUN_2021_%E2%86%92_APR_2022-A78BFA?style=for-the-badge) **Software Engineer, SRE** — Treebo Hotels
 > Jenkins pipelines across ECS/EC2/S3 standardising deploys for 15+ microservices (−70% manual effort). SLI dashboards for P50/P95/P99 latency, error rate and saturation — +30% incident detection.
 
----
+<br />
 
-## 🎓 Education & Certifications
+<div align="center">
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-education.svg" width="100%" alt="Education and certifications" />
+</div>
 
 **B.Tech, Computer Science & Engineering** — IK Gujral Punjab Technical University · `2018 – 2022`
 
@@ -182,19 +155,23 @@ Reusable Terraform modules for 25 EKS clusters with IAM/IRSA, plus a Helm librar
 ![IIT Bombay Python](https://img.shields.io/badge/IIT_Bombay-Python-14181F?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=FFFFFF)
 ![NASSCOM AI Practitioner](https://img.shields.io/badge/NASSCOM-AI_Practitioner-14181F?style=for-the-badge&labelColor=A78BFA&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMTIgMmwyLjIgNi4zTDIwLjUgMTBsLTYuMyAyLjJMMTIgMTguNWwtMi4yLTYuM0wzLjUgMTBsNi4zLTEuN0wxMiAyWm03IDEzbDEuMSAyLjZMMjMgMTguN2wtMi45IDEuMUwxOSAyMi41bC0xLjEtMi43TDE1IDE4LjdsMi45LTEuMUwxOSAxNVoiLz48L3N2Zz4=&logoColor=14181F)
 
----
+<br />
 
 <div align="center">
+
+<a href="https://s3cretagent.github.io/portfolio/">
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/footer.svg" width="100%" alt="Let's talk reliability, platforms and cloud cost — shubhmalhotra07@gmail.com · s3cretagent.github.io/portfolio" />
+</a>
+
+<a href="mailto:shubhmalhotra07@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-EAFF7A?style=for-the-badge&logo=gmail&logoColor=14181F" alt="Email Shubh" /></a>
+<a href="https://s3cretagent.github.io/portfolio/"><img src="https://img.shields.io/badge/FULL_PORTFOLIO-4CD8F5?style=for-the-badge&logo=googlechrome&logoColor=14181F" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shubh-malhotra-881b47ab"><img src="https://img.shields.io/badge/CONNECT-A78BFA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNCA3aDR2MTNINFY3Wm0yLTVhMi40IDIuNCAwIDEgMSAwIDQuOEEyLjQgMi40IDAgMCAxIDYgMlptNSA1aDMuOHYxLjhoLjA1QTQuMiA0LjIgMCAwIDEgMTguNSA2LjdjMyAwIDMuNSAxLjkgMy41IDQuNlYyMGgtNHYtN2MwLTEuNi0uMDMtMy4yLTItMy4ycy0yLjIgMS40LTIuMiAzLjFWMjBoLTMuOFY3WiIvPjwvc3ZnPg==&logoColor=14181F" alt="LinkedIn" /></a>
+
+<br /><br />
 
 ![Followers](https://img.shields.io/github/followers/s3cretagent?style=for-the-badge&logo=github&logoColor=14181F&labelColor=EAFF7A&color=7DF9A8)
 ![Stars](https://img.shields.io/github/stars/s3cretagent?style=for-the-badge&logo=github&logoColor=14181F&labelColor=4CD8F5&color=A78BFA)
 ![Profile views](https://komarev.com/ghpvc/?username=s3cretagent&style=for-the-badge&color=FBBF24&label=PROFILE+VIEWS)
-
-<br />
-
-### 💬 Open to conversations about reliability, platform engineering and cloud cost.
-
-<a href="mailto:shubhmalhotra07@gmail.com">shubhmalhotra07@gmail.com</a> · <a href="https://s3cretagent.github.io/portfolio/">s3cretagent.github.io/portfolio</a>
 
 <sub>⚡ Fun fact: the best incident is the one your dashboards resolved before your pager fired.</sub>
 
