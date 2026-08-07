@@ -1,10 +1,8 @@
 <div align="center">
 
 <a href="https://s3cretagent.github.io/portfolio/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&pause=1400&color=C6F24E&center=true&vCenter=true&width=820&height=60&lines=Site+Reliability+%2F+DevOps+Engineer;Kubernetes+platforms+at+99.95%25+uptime;Terraform+%E2%86%92+GitOps+%E2%86%92+Observability;I+get+paid+to+make+production+boring." alt="Site Reliability / DevOps Engineer" />
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/banner.svg" alt="Shubh Malhotra — DevOps · SRE · Cloud Infrastructure" width="100%" />
 </a>
-
-# Shubh Malhotra
 
 **Software Engineer · DevOps / SRE / Cloud Infrastructure**
 `New Delhi, India` · 5+ years running production infrastructure
@@ -170,10 +168,11 @@ Reusable Terraform modules for 25 EKS clusters with IAM/IRSA, plus a Helm librar
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=s3cretagent&show_icons=true&hide_border=true&bg_color=0A0B0D&title_color=C6F24E&icon_color=34D399&text_color=E8EAED&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3cretagent&layout=compact&hide_border=true&bg_color=0A0B0D&title_color=C6F24E&text_color=E8EAED&langs_count=8" alt="Top languages" />
+![Followers](https://img.shields.io/github/followers/s3cretagent?style=for-the-badge&logo=github&logoColor=C6F24E&labelColor=0A0B0D&color=0A0B0D)
+![Stars](https://img.shields.io/github/stars/s3cretagent?style=for-the-badge&logo=github&logoColor=34D399&labelColor=0A0B0D&color=0A0B0D)
+![Profile views](https://komarev.com/ghpvc/?username=s3cretagent&style=for-the-badge&color=C6F24E&label=PROFILE+VIEWS)
 
-<br /><br />
+<br />
 
 **Open to conversations about reliability, platform engineering and cloud cost.**
 
