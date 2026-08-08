@@ -1,188 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Shubh Malhotra — Site Reliability and DevOps Engineer. 50+ microservices on EKS, 99.95% uptime, 25 Terraform-provisioned clusters.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 226" width="1000" height="226" role="img" aria-label="Shubh Malhotra — DevOps, SRE, Cloud Infrastructure. Available for new opportunities. Kubernetes platforms, Terraform IaC, GitOps, Observability. 50+ microservices, 99.95% uptime, −35% MTTR, −$50K per year.">
   <defs>
-    <linearGradient id="hName" gradientUnits="userSpaceOnUse" x1="34" y1="0" x2="620" y2="0">
+    <linearGradient id="hName" gradientUnits="userSpaceOnUse" x1="290" y1="0" x2="710" y2="0">
       <stop offset="0"    stop-color="#EAFF7A"/>
-      <stop offset="0.35" stop-color="#7DF9A8"/>
-      <stop offset="0.7"  stop-color="#4CD8F5"/>
+      <stop offset="0.38" stop-color="#7DF9A8"/>
+      <stop offset="0.72" stop-color="#4CD8F5"/>
       <stop offset="1"    stop-color="#C4B5FD"/>
     </linearGradient>
     <radialGradient id="hA" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#C6F24E" stop-opacity="0.40"/><stop offset="1" stop-color="#C6F24E" stop-opacity="0"/>
+      <stop offset="0" stop-color="#C6F24E" stop-opacity="0.30"/><stop offset="1" stop-color="#C6F24E" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="hB" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.38"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="hC" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.34"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.28"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </radialGradient>
     <pattern id="hGrid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#2A3441" stroke-width="1"/>
+      <path d="M36 0H0V36" fill="none" stroke="#232C38" stroke-width="1"/>
     </pattern>
-    <clipPath id="hClip"><rect x="1" y="1" width="998" height="298" rx="16"/></clipPath>
+    <clipPath id="hClip"><rect x="1" y="1" width="998" height="224" rx="16"/></clipPath>
   </defs>
 
   <g clip-path="url(#hClip)">
-    <rect width="1000" height="300" fill="#0B0E13"/>
+    <rect width="1000" height="226" fill="#0B0E13"/>
+    <rect width="1000" height="226" fill="url(#hGrid)" opacity="0.75"/>
 
-    <!-- drifting grid: gives the surface depth like the portfolio's wave mesh -->
-    <g>
-      <rect x="-40" y="-40" width="1080" height="380" fill="url(#hGrid)" opacity="0.85"/>
-      <animateTransform attributeName="transform" type="translate" values="0 0; 36 18; 0 36; -36 18; 0 0" dur="28s" repeatCount="indefinite"/>
-    </g>
-
-    <ellipse cx="140" cy="40" rx="300" ry="170" fill="url(#hA)">
-      <animateTransform attributeName="transform" type="translate" values="0 0; 70 34; -30 20; 0 0" dur="17s" repeatCount="indefinite"/>
+    <!-- Two slow blobs are the only ambient motion; nothing here pretends to be a live chart. -->
+    <ellipse cx="200" cy="20" rx="300" ry="150" fill="url(#hA)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 60 24; -26 14; 0 0" dur="19s" repeatCount="indefinite"/>
     </ellipse>
-    <ellipse cx="620" cy="290" rx="330" ry="185" fill="url(#hB)">
-      <animateTransform attributeName="transform" type="translate" values="0 0; -60 -30; 40 -14; 0 0" dur="21s" repeatCount="indefinite"/>
-    </ellipse>
-    <ellipse cx="960" cy="60" rx="260" ry="170" fill="url(#hC)">
-      <animateTransform attributeName="transform" type="translate" values="0 0; -44 44; 20 12; 0 0" dur="25s" repeatCount="indefinite"/>
+    <ellipse cx="800" cy="215" rx="300" ry="150" fill="url(#hB)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -54 -22; 30 -10; 0 0" dur="23s" repeatCount="indefinite"/>
     </ellipse>
 
-    <!-- status pill -->
-    <g transform="translate(34 30)">
+    <!-- status pill, centred -->
+    <g transform="translate(364 20)">
       <rect width="272" height="30" rx="15" fill="#12200F" stroke="#5C8B1E" stroke-width="1.4"/>
       <circle cx="18" cy="15" r="4.5" fill="#C6F24E">
-        <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
-        <animate attributeName="r" values="4.5;6;4.5" dur="1.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
       </circle>
       <text x="32" y="20" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
             font-size="12.5" font-weight="700" fill="#DCFF8C">AVAILABLE FOR NEW OPPORTUNITIES</text>
     </g>
 
-    <text x="34" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-          font-size="13" font-weight="700" letter-spacing="3.4" fill="#9BA7B4">DEVOPS · SRE · CLOUD INFRASTRUCTURE</text>
+    <text x="500" y="74" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="13" font-weight="700" letter-spacing="3.2" fill="#9BA7B4">DEVOPS · SRE · CLOUD INFRASTRUCTURE</text>
 
-    <!-- textLength pins the rendered width regardless of which font resolves, so the
-         caret below always lands immediately after the final letter. -->
-    <text x="32" y="152" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
-          font-size="58" font-weight="700" textLength="446" lengthAdjust="spacing" fill="url(#hName)">Shubh Malhotra</text>
-    <rect x="490" y="114" width="13" height="38" fill="#FFFFFF">
+    <!-- textLength pins the width, so the caret always sits just after the final letter -->
+    <text x="290" y="130" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
+          font-size="54" font-weight="700" textLength="420" lengthAdjust="spacing" fill="url(#hName)">Shubh Malhotra</text>
+    <rect x="718" y="96" width="12" height="35" fill="#FFFFFF">
       <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>
 
-    <!-- rotating tagline: three phrases cross-fading, like the portfolio's typewriter -->
-    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="600">
-      <text x="34" y="190" fill="#EAFF7A" opacity="0">I engineer Kubernetes platforms that hold 99.95% uptime.
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.04;0.29;0.33" dur="12s" begin="0s" repeatCount="indefinite"/>
-      </text>
-      <text x="34" y="190" fill="#7DF9A8" opacity="0">I provision 25 EKS clusters entirely as Terraform code.
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.04;0.29;0.33" dur="12s" begin="4s" repeatCount="indefinite"/>
-      </text>
-      <text x="34" y="190" fill="#4CD8F5" opacity="0">I get paid to make production boring.
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.04;0.29;0.33" dur="12s" begin="8s" repeatCount="indefinite"/>
-      </text>
-    </g>
+    <text x="500" y="161" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="14.5" fill="#E8EDF3">Kubernetes platforms · Terraform IaC · GitOps · Observability</text>
 
-    <!-- floating KPI chips -->
+    <!-- four solid chips, centred as one row -->
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700">
-      <g transform="translate(34 220)">
-        <rect width="168" height="32" rx="16" fill="#EAFF7A"/>
-        <text x="16" y="21" fill="#0B0E13">☸ 50+ MICROSERVICES</text>
-        <animateTransform attributeName="transform" type="translate" values="34 220; 34 214; 34 220" dur="5s" repeatCount="indefinite"/>
-      </g>
-      <g transform="translate(214 220)">
-        <rect width="150" height="32" rx="16" fill="#7DF9A8"/>
-        <text x="16" y="21" fill="#0B0E13">⚡ 99.95% UPTIME</text>
-        <animateTransform attributeName="transform" type="translate" values="214 220; 214 213; 214 220" dur="5s" begin="0.8s" repeatCount="indefinite"/>
-      </g>
-      <g transform="translate(376 220)">
-        <rect width="132" height="32" rx="16" fill="#4CD8F5"/>
-        <text x="16" y="21" fill="#0B0E13">📉 −35% MTTR</text>
-        <animateTransform attributeName="transform" type="translate" values="376 220; 376 214; 376 220" dur="5s" begin="1.6s" repeatCount="indefinite"/>
-      </g>
-      <g transform="translate(520 220)">
-        <rect width="136" height="32" rx="16" fill="#FBBF24"/>
-        <text x="16" y="21" fill="#0B0E13">💰 −$50K / YEAR</text>
-        <animateTransform attributeName="transform" type="translate" values="520 220; 520 213; 520 220" dur="5s" begin="2.4s" repeatCount="indefinite"/>
-      </g>
+      <g transform="translate(216 178)"><rect width="158" height="30" rx="15" fill="#EAFF7A"/><text x="16" y="20" fill="#0B0E13">50+ microservices</text></g>
+      <g transform="translate(382 178)"><rect width="141" height="30" rx="15" fill="#7DF9A8"/><text x="16" y="20" fill="#0B0E13">99.95% uptime</text></g>
+      <g transform="translate(531 178)"><rect width="125" height="30" rx="15" fill="#4CD8F5"/><text x="16" y="20" fill="#0B0E13">−35% MTTR</text></g>
+      <g transform="translate(664 178)"><rect width="120" height="30" rx="15" fill="#FBBF24"/><text x="16" y="20" fill="#0B0E13">−$50K/yr</text></g>
     </g>
 
-    <!-- right: live request-rate spectrum. Bars breathe continuously, so the hero keeps
-         moving after the load-in animations elsewhere on the page have settled. -->
-    <g>
-      <text x="700" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-            font-size="11" font-weight="700" letter-spacing="1.6" fill="#8B98A8">REQUESTS / SEC</text>
-      <circle cx="944" cy="68" r="4.5" fill="#7DF9A8">
-        <animate attributeName="opacity" values="1;0.2;1" dur="1.9s" repeatCount="indefinite"/>
-      </circle>
-      <text x="932" y="72" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-            font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#7DF9A8">LIVE</text>
-
-      <line x1="700" y1="234" x2="956" y2="234" stroke="#3D4A5C" stroke-width="1.5"/>
-
-      <g>
-        <rect x="700" y="192" width="10" height="40" rx="3" fill="#EAFF7A">
-          <animate attributeName="height" values="40;92;58;110;40" dur="3.2s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="192;140;174;122;192" dur="3.2s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="716" y="162" width="10" height="70" rx="3" fill="#EAFF7A">
-          <animate attributeName="height" values="70;36;104;62;70" dur="2.8s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="162;196;128;170;162" dur="2.8s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="732" y="136" width="10" height="96" rx="3" fill="#EAFF7A">
-          <animate attributeName="height" values="96;130;72;44;96" dur="3.6s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="136;102;160;188;136" dur="3.6s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="748" y="178" width="10" height="54" rx="3" fill="#B6F55C">
-          <animate attributeName="height" values="54;80;120;66;54" dur="3.0s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="178;152;112;166;178" dur="3.0s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="764" y="114" width="10" height="118" rx="3" fill="#7DF9A8">
-          <animate attributeName="height" values="118;64;90;136;118" dur="3.4s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="114;168;142;96;114" dur="3.4s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="780" y="192" width="10" height="40" rx="3" fill="#7DF9A8">
-          <animate attributeName="height" values="40;92;58;110;40" dur="2.6s" begin="0.3s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="192;140;174;122;192" dur="2.6s" begin="0.3s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="796" y="162" width="10" height="70" rx="3" fill="#7DF9A8">
-          <animate attributeName="height" values="70;36;104;62;70" dur="3.8s" begin="0.2s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="162;196;128;170;162" dur="3.8s" begin="0.2s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="812" y="136" width="10" height="96" rx="3" fill="#5FE7D0">
-          <animate attributeName="height" values="96;130;72;44;96" dur="3.1s" begin="0.5s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="136;102;160;188;136" dur="3.1s" begin="0.5s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="828" y="178" width="10" height="54" rx="3" fill="#4CD8F5">
-          <animate attributeName="height" values="54;80;120;66;54" dur="3.5s" begin="0.1s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="178;152;112;166;178" dur="3.5s" begin="0.1s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="844" y="114" width="10" height="118" rx="3" fill="#4CD8F5">
-          <animate attributeName="height" values="118;64;90;136;118" dur="2.9s" begin="0.6s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="114;168;142;96;114" dur="2.9s" begin="0.6s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="860" y="192" width="10" height="40" rx="3" fill="#4CD8F5">
-          <animate attributeName="height" values="40;92;58;110;40" dur="3.7s" begin="0.4s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="192;140;174;122;192" dur="3.7s" begin="0.4s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="876" y="162" width="10" height="70" rx="3" fill="#7FB6FF">
-          <animate attributeName="height" values="70;36;104;62;70" dur="3.3s" begin="0.8s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="162;196;128;170;162" dur="3.3s" begin="0.8s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="892" y="136" width="10" height="96" rx="3" fill="#A78BFA">
-          <animate attributeName="height" values="96;130;72;44;96" dur="2.7s" begin="0.7s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="136;102;160;188;136" dur="2.7s" begin="0.7s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="908" y="178" width="10" height="54" rx="3" fill="#A78BFA">
-          <animate attributeName="height" values="54;80;120;66;54" dur="3.9s" begin="0.9s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="178;152;112;166;178" dur="3.9s" begin="0.9s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="924" y="114" width="10" height="118" rx="3" fill="#C4B5FD">
-          <animate attributeName="height" values="118;64;90;136;118" dur="3.05s" begin="1.1s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="114;168;142;96;114" dur="3.05s" begin="1.1s" repeatCount="indefinite"/>
-        </rect>
-        <rect x="940" y="192" width="10" height="40" rx="3" fill="#C4B5FD">
-          <animate attributeName="height" values="40;92;58;110;40" dur="3.45s" begin="1.2s" repeatCount="indefinite"/>
-          <animate attributeName="y" values="192;140;174;122;192" dur="3.45s" begin="1.2s" repeatCount="indefinite"/>
-        </rect>
-      </g>
-
-      <text x="700" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-            font-size="11" font-weight="700" letter-spacing="1.2" fill="#6C7887">SERVING 1M+ MONTHLY USERS</text>
-    </g>
+    <!-- hue rail ties the header to the badge palette used down the page -->
+    <rect x="0"   y="220" width="200" height="6" fill="#EAFF7A"/>
+    <rect x="200" y="220" width="200" height="6" fill="#7DF9A8"/>
+    <rect x="400" y="220" width="200" height="6" fill="#4CD8F5"/>
+    <rect x="600" y="220" width="200" height="6" fill="#A78BFA"/>
+    <rect x="800" y="220" width="200" height="6" fill="#FBBF24"/>
   </g>
 
-  <rect x="1" y="1" width="998" height="298" rx="16" fill="none" stroke="#2A3441" stroke-width="2"/>
+  <rect x="1" y="1" width="998" height="224" rx="16" fill="none" stroke="#2A3441" stroke-width="2"/>
 </svg>
