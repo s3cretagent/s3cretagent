@@ -66,7 +66,7 @@
       <text x="22" y="240" fill="#6C7887">apply complete</text>
       <text x="132" y="240" fill="#7DF9A8">25 added, 0 destroyed</text>
       <text x="22" y="258" fill="#6C7887">helm upgrade</text>
-      <text x="132" y="258" fill="#EAFF7A">service onboarded in 26m</text>
+      <text x="132" y="258" fill="#EAFF7A">service onboarded in under 30m</text>
     </g>
 
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="700">

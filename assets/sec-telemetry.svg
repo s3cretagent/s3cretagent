@@ -10,7 +10,7 @@
     <rect width="1000" height="58" fill="url(#stWash)"/>
     <rect width="7" height="58" fill="#FBBF24"/>
     <text x="28" y="36" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
-          font-size="19" font-weight="700" letter-spacing="0.4" fill="#F0F6FC">📊  Production, by the numbers</text>
+          font-size="19" font-weight="700" letter-spacing="0.4" fill="#F0F6FC">Production impact</text>
     <g transform="translate(966 29)">
       <circle r="5" fill="#FBBF24"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
     </g>

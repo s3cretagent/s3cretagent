@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 58" width="1000" height="58" role="img" aria-label="Section: Toolbox">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 58" width="1000" height="58" role="img" aria-label="Section: Tech stack">
   <defs>
     <linearGradient id="sbWash" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="700" y2="0">
       <stop offset="0" stop-color="#4CD8F5" stop-opacity="0.22"/><stop offset="1" stop-color="#4CD8F5" stop-opacity="0"/>
@@ -10,7 +10,7 @@
     <rect width="1000" height="58" fill="url(#sbWash)"/>
     <rect width="7" height="58" fill="#4CD8F5"/>
     <text x="28" y="36" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
-          font-size="19" font-weight="700" letter-spacing="0.4" fill="#F0F6FC">🧰  Toolbox</text>
+          font-size="19" font-weight="700" letter-spacing="0.4" fill="#F0F6FC">Tech stack</text>
     <g transform="translate(966 29)">
       <circle r="5" fill="#4CD8F5"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
     </g>

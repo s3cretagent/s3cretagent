@@ -28,7 +28,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 
 <div align="center">
   <a href="https://s3cretagent.github.io/portfolio/">
-    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-telemetry.svg" width="100%" alt="Production, by the numbers" />
+    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-telemetry.svg" width="100%" alt="Production impact" />
   </a>
   <a href="https://s3cretagent.github.io/portfolio/">
     <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/metrics.svg" width="100%" alt="Production telemetry: 50+ microservices, 25 EKS clusters, 99.95% uptime SLA, ~$50K saved per year. MTTR reduced 35%, cloud spend cut 20%, onboarding time cut 97%, manual deploy effort cut 70%, primary DB load cut 40%." />
@@ -36,7 +36,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 </div>
 
 <details>
-<summary><b>The same numbers as text</b></summary>
+<summary><b>View these metrics in text form</b></summary>
 
 | Impact | What it was |
 |:--|:--|
@@ -56,11 +56,11 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 
 <div align="center">
   <a href="https://s3cretagent.github.io/portfolio/#skills">
-    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-toolbox.svg" width="100%" alt="Toolbox" />
+    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-toolbox.svg" width="100%" alt="Tech stack" />
   </a>
 </div>
 
-**☁️ Cloud & Compute**
+**Cloud & Compute**
 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNi42IDE5LjVBNC42IDQuNiAwIDAgMSA1LjggMTAuNGE2LjIgNi4yIDAgMCAxIDEyLTEuNiA0LjM1IDQuMzUgMCAwIDEtLjMgMTAuN0g2LjZaIi8+PC9zdmc+&logoColor=14181F)](https://aws.amazon.com/)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/)
@@ -78,7 +78,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 [![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat-square)](https://aws.amazon.com/ecr/)
 [![IAM / IRSA](https://img.shields.io/badge/IAM_%2F_IRSA-FFAD33?style=flat-square)](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html)
 
-**☸️ Orchestration & IaC**
+**Orchestration & Infrastructure as Code**
 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)](https://kubernetes.io/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=FFFFFF)](https://developer.hashicorp.com/terraform)
@@ -86,7 +86,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=14181F)](https://argo-cd.readthedocs.io/)
 
-**🔁 CI/CD & Automation**
+**CI/CD & Automation**
 
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=FFFFFF)](https://www.jenkins.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)](https://github.com/features/actions)
@@ -95,7 +95,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=14181F)](https://kernel.org/)
 
-**📈 Observability & Reliability**
+**Observability & Reliability**
 
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=FFFFFF)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=FFFFFF)](https://grafana.com/)
@@ -103,7 +103,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 [![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=FFFFFF)](https://www.pagerduty.com/)
 [![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=FFFFFF)](https://trivy.dev/)
 
-**🗄️ Data & Streaming**
+**Data & Streaming**
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-8B5CF6?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF)](https://kafka.apache.org/)
@@ -113,7 +113,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 
 <div align="center">
   <a href="https://s3cretagent.github.io/portfolio/#projects">
-    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-projects.svg" width="100%" alt="Live project dashboards — click any card" />
+    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-projects.svg" width="100%" alt="Selected projects — interactive dashboards" />
   </a>
 </div>
 
@@ -174,19 +174,17 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 <div align="center">
 
 <a href="https://s3cretagent.github.io/portfolio/">
-  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/footer.svg" width="100%" alt="Let's talk reliability, platforms and cloud cost — shubhmalhotra07@gmail.com · s3cretagent.github.io/portfolio" />
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/footer.svg" width="100%" alt="Open to reliability and platform engineering roles — shubhmalhotra07@gmail.com · s3cretagent.github.io/portfolio" />
 </a>
 
-<a href="mailto:shubhmalhotra07@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-EAFF7A?style=for-the-badge&logo=gmail&logoColor=14181F" alt="Email Shubh" /></a>
-<a href="https://s3cretagent.github.io/portfolio/"><img src="https://img.shields.io/badge/FULL_PORTFOLIO-4CD8F5?style=for-the-badge&logo=googlechrome&logoColor=14181F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/shubh-malhotra-881b47ab"><img src="https://img.shields.io/badge/CONNECT-A78BFA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNCA3aDR2MTNINFY3Wm0yLTVhMi40IDIuNCAwIDEgMSAwIDQuOEEyLjQgMi40IDAgMCAxIDYgMlptNSA1aDMuOHYxLjhoLjA1QTQuMiA0LjIgMCAwIDEgMTguNSA2LjdjMyAwIDMuNSAxLjkgMy41IDQuNlYyMGgtNHYtN2MwLTEuNi0uMDMtMy4yLTItMy4ycy0yLjIgMS40LTIuMiAzLjFWMjBoLTMuOFY3WiIvPjwvc3ZnPg==&logoColor=14181F" alt="LinkedIn" /></a>
+<a href="mailto:shubhmalhotra07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EAFF7A?style=for-the-badge&logo=gmail&logoColor=14181F" alt="Email" /></a>
+<a href="https://s3cretagent.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-4CD8F5?style=for-the-badge&logo=googlechrome&logoColor=14181F" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shubh-malhotra-881b47ab"><img src="https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNCA3aDR2MTNINFY3Wm0yLTVhMi40IDIuNCAwIDEgMSAwIDQuOEEyLjQgMi40IDAgMCAxIDYgMlptNSA1aDMuOHYxLjhoLjA1QTQuMiA0LjIgMCAwIDEgMTguNSA2LjdjMyAwIDMuNSAxLjkgMy41IDQuNlYyMGgtNHYtN2MwLTEuNi0uMDMtMy4yLTItMy4ycy0yLjIgMS40LTIuMiAzLjFWMjBoLTMuOFY3WiIvPjwvc3ZnPg==&logoColor=14181F" alt="LinkedIn" /></a>
 
 <br /><br />
 
 [![Followers](https://img.shields.io/github/followers/s3cretagent?style=for-the-badge&logo=github&logoColor=14181F&labelColor=EAFF7A&color=7DF9A8)](https://github.com/s3cretagent?tab=followers)
 [![Stars](https://img.shields.io/github/stars/s3cretagent?style=for-the-badge&logo=github&logoColor=14181F&labelColor=4CD8F5&color=A78BFA)](https://github.com/s3cretagent?tab=repositories)
 [![Profile views](https://komarev.com/ghpvc/?username=s3cretagent&style=for-the-badge&color=FBBF24&label=PROFILE+VIEWS)](https://s3cretagent.github.io/portfolio/)
-
-<sub>⚡ Fun fact: the best incident is the one your dashboards resolved before your pager fired.</sub>
 
 </div>

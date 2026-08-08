@@ -10,9 +10,9 @@
     <rect width="1000" height="58" fill="url(#spWash)"/>
     <rect width="7" height="58" fill="#A78BFA"/>
     <text x="28" y="36" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
-          font-size="19" font-weight="700" letter-spacing="0.4" fill="#F0F6FC">🚀  Live project dashboards</text>
+          font-size="19" font-weight="700" letter-spacing="0.4" fill="#F0F6FC">Selected projects</text>
     <text x="880" y="34" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-          font-size="11" font-weight="700" letter-spacing="1.2" fill="#B9A6FF">CLICK ANY CARD</text>
+          font-size="11" font-weight="700" letter-spacing="1.2" fill="#B9A6FF">INTERACTIVE DASHBOARDS</text>
     <g transform="translate(966 29)">
       <circle r="5" fill="#A78BFA"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
     </g>

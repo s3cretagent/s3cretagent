@@ -23,18 +23,18 @@
     </ellipse>
 
     <text x="500" y="52" text-anchor="middle" font-family="-apple-system, Segoe UI, Helvetica Neue, Arial, sans-serif"
-          font-size="23" font-weight="700" fill="#F0F6FC">Let's talk reliability, platforms and cloud cost.</text>
+          font-size="23" font-weight="700" fill="#F0F6FC">Open to reliability and platform engineering roles</text>
     <text x="500" y="80" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
-          font-size="13" fill="#9BA7B4">Have a role, a reliability problem, or an infra project in mind?</text>
+          font-size="13" fill="#9BA7B4">Available to discuss infrastructure, reliability and cloud cost engagements.</text>
 
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="700">
       <g transform="translate(276 96)">
         <rect width="222" height="32" rx="16" fill="#EAFF7A"/>
-        <text x="111" y="21" text-anchor="middle" fill="#0B0E13">✉ shubhmalhotra07@gmail.com</text>
+        <text x="111" y="21" text-anchor="middle" fill="#0B0E13">shubhmalhotra07@gmail.com</text>
       </g>
       <g transform="translate(512 96)">
         <rect width="212" height="32" rx="16" fill="#4CD8F5"/>
-        <text x="106" y="21" text-anchor="middle" fill="#0B0E13">🌐 VIEW FULL PORTFOLIO</text>
+        <text x="106" y="21" text-anchor="middle" fill="#0B0E13">VIEW PORTFOLIO</text>
       </g>
     </g>
 
