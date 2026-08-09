@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://s3cretagent.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-EAFF7A?style=for-the-badge&logo=googlechrome&logoColor=14181F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/shubh-malhotra-881b47ab"><img src="https://img.shields.io/badge/LINKEDIN-4CD8F5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNCA3aDR2MTNINFY3Wm0yLTVhMi40IDIuNCAwIDEgMSAwIDQuOEEyLjQgMi40IDAgMCAxIDYgMlptNSA1aDMuOHYxLjhoLjA1QTQuMiA0LjIgMCAwIDEgMTguNSA2LjdjMyAwIDMuNSAxLjkgMy41IDQuNlYyMGgtNHYtN2MwLTEuNi0uMDMtMy4yLTItMy4ycy0yLjIgMS40LTIuMiAzLjFWMjBoLTMuOFY3WiIvPjwvc3ZnPg==&logoColor=14181F" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/shubhmalhotra07"><img src="https://img.shields.io/badge/LINKEDIN-4CD8F5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNCA3aDR2MTNINFY3Wm0yLTVhMi40IDIuNCAwIDEgMSAwIDQuOEEyLjQgMi40IDAgMCAxIDYgMlptNSA1aDMuOHYxLjhoLjA1QTQuMiA0LjIgMCAwIDEgMTguNSA2LjdjMyAwIDMuNSAxLjkgMy41IDQuNlYyMGgtNHYtN2MwLTEuNi0uMDMtMy4yLTItMy4ycy0yLjIgMS40LTIuMiAzLjFWMjBoLTMuOFY3WiIvPjwvc3ZnPg==&logoColor=14181F" alt="LinkedIn" /></a>
 <a href="https://s3cretagent.github.io/portfolio/resume.pdf"><img src="https://img.shields.io/badge/RESUME-A78BFA?style=for-the-badge&logo=readthedocs&logoColor=FFFFFF" alt="Resume" /></a>
 <a href="mailto:shubhmalhotra07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FBBF24?style=for-the-badge&logo=gmail&logoColor=14181F" alt="Email" /></a>
 
@@ -179,7 +179,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 
 <a href="mailto:shubhmalhotra07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EAFF7A?style=for-the-badge&logo=gmail&logoColor=14181F" alt="Email" /></a>
 <a href="https://s3cretagent.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-4CD8F5?style=for-the-badge&logo=googlechrome&logoColor=14181F" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/shubh-malhotra-881b47ab"><img src="https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNCA3aDR2MTNINFY3Wm0yLTVhMi40IDIuNCAwIDEgMSAwIDQuOEEyLjQgMi40IDAgMCAxIDYgMlptNSA1aDMuOHYxLjhoLjA1QTQuMiA0LjIgMCAwIDEgMTguNSA2LjdjMyAwIDMuNSAxLjkgMy41IDQuNlYyMGgtNHYtN2MwLTEuNi0uMDMtMy4yLTItMy4ycy0yLjIgMS40LTIuMiAzLjFWMjBoLTMuOFY3WiIvPjwvc3ZnPg==&logoColor=14181F" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/shubhmalhotra07"><img src="https://img.shields.io/badge/LINKEDIN-A78BFA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNCA3aDR2MTNINFY3Wm0yLTVhMi40IDIuNCAwIDEgMSAwIDQuOEEyLjQgMi40IDAgMCAxIDYgMlptNSA1aDMuOHYxLjhoLjA1QTQuMiA0LjIgMCAwIDEgMTguNSA2LjdjMyAwIDMuNSAxLjkgMy41IDQuNlYyMGgtNHYtN2MwLTEuNi0uMDMtMy4yLTItMy4ycy0yLjIgMS40LTIuMiAzLjFWMjBoLTMuOFY3WiIvPjwvc3ZnPg==&logoColor=14181F" alt="LinkedIn" /></a>
 
 <br /><br />
 
