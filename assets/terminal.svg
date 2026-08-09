@@ -23,11 +23,11 @@
 
     <!-- syntax-coloured yaml -->
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14.5">
-      <text x="26" y="72"><tspan fill="#4CD8F5">role:      </tspan><tspan fill="#F0F6FC">Software Engineer — DevOps / SRE</tspan></text>
+      <text x="26" y="72"><tspan fill="#4CD8F5">role:      </tspan><tspan fill="#F0F6FC">Software Engineer, DevOps / SRE</tspan></text>
       <text x="26" y="98"><tspan fill="#4CD8F5">platform:  </tspan><tspan fill="#EAFF7A">Kubernetes (EKS)</tspan><tspan fill="#6C7887"> · </tspan><tspan fill="#F0F6FC">50+ microservices</tspan><tspan fill="#6C7887"> · </tspan><tspan fill="#7DF9A8">99.95%+ uptime SLA</tspan></text>
       <text x="26" y="124"><tspan fill="#4CD8F5">delivery:  </tspan><tspan fill="#F0F6FC">Terraform IaC </tspan><tspan fill="#A78BFA">→</tspan><tspan fill="#F0F6FC"> ArgoCD GitOps </tspan><tspan fill="#A78BFA">→</tspan><tspan fill="#F0F6FC"> zero-downtime releases</tspan></text>
       <text x="26" y="150"><tspan fill="#4CD8F5">signal:    </tspan><tspan fill="#F0F6FC">Prometheus · Grafana · Loki · PagerDuty · SLOs &amp; error budgets</tspan></text>
-      <text x="26" y="176"><tspan fill="#4CD8F5">focus:     </tspan><tspan fill="#F0F6FC">reliability without runaway cloud cost — </tspan><tspan fill="#FB7185">−35% MTTR</tspan><tspan fill="#F0F6FC">, </tspan><tspan fill="#FBBF24">−20% spend</tspan></text>
+      <text x="26" y="176"><tspan fill="#4CD8F5">focus:     </tspan><tspan fill="#F0F6FC">reliability without runaway cloud cost, </tspan><tspan fill="#FB7185">−35% MTTR</tspan><tspan fill="#F0F6FC">, </tspan><tspan fill="#FBBF24">−20% spend</tspan></text>
       <text x="26" y="202"><tspan fill="#4CD8F5">scale:     </tspan><tspan fill="#F0F6FC">1M+ monthly users · 200+ Prometheus targets · 30+ repos</tspan></text>
       <text x="26" y="228"><tspan fill="#4CD8F5">currently: </tspan><tspan fill="#F0F6FC">Superhero Tech Pvt. Ltd. · Bengaluru</tspan></text>
     </g>

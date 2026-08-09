@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://s3cretagent.github.io/portfolio/">
-  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/hero.svg" width="100%" alt="Shubh Malhotra — DevOps · SRE · Cloud Infrastructure. 50+ microservices on EKS, 99.95% uptime, 25 Terraform-provisioned clusters, ~$50K/year saved." />
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/hero.svg" width="100%" alt="Shubh Malhotra, DevOps · SRE · Cloud Infrastructure. 50+ microservices on EKS, 99.95% uptime, 25 Terraform-provisioned clusters, ~$50K/year saved." />
 </a>
 
 <a href="https://s3cretagent.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-EAFF7A?style=for-the-badge&logo=googlechrome&logoColor=14181F" alt="Portfolio" /></a>
@@ -15,13 +15,13 @@
 
 <div align="center">
   <a href="https://s3cretagent.github.io/portfolio/">
-    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/terminal.svg" width="100%" alt="whoami — Software Engineer (DevOps/SRE). Kubernetes EKS platform, 50+ microservices, 99.95%+ uptime SLA. Terraform IaC → ArgoCD GitOps → zero-downtime releases. Prometheus, Grafana, Loki, PagerDuty, SLOs and error budgets. 1M+ monthly users, 200+ Prometheus targets, 30+ repos. Currently at Superhero Tech Pvt. Ltd., Bengaluru." />
+    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/terminal.svg" width="100%" alt="whoami, Software Engineer (DevOps/SRE). Kubernetes EKS platform, 50+ microservices, 99.95%+ uptime SLA. Terraform IaC → ArgoCD GitOps → zero-downtime releases. Prometheus, Grafana, Loki, PagerDuty, SLOs and error budgets. 1M+ monthly users, 200+ Prometheus targets, 30+ repos. Currently at Superhero Tech Pvt. Ltd., Bengaluru." />
   </a>
 </div>
 
 I design and operate the infrastructure that other engineers ship on: multi-AZ EKS clusters
 provisioned as code, GitOps delivery with instant rollback, and observability that catches
-problems before customers do — for platforms serving **1M+ monthly users**.
+problems before customers do, for platforms serving **1M+ monthly users**.
 Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production infrastructure.
 
 <br />
@@ -113,7 +113,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 
 <div align="center">
   <a href="https://s3cretagent.github.io/portfolio/#projects">
-    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-projects.svg" width="100%" alt="Selected projects — interactive dashboards" />
+    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-projects.svg" width="100%" alt="Selected projects, interactive dashboards" />
   </a>
 </div>
 
@@ -121,17 +121,17 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 <tr>
 <td width="33%" valign="top">
 <a href="https://s3cretagent.github.io/projects/cost-optimisation/">
-<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-cost.svg" width="100%" alt="Cost Optimization Dashboard — −25% cloud cost, ~$50K saved per year, 5 AWS accounts. Grafana, CloudWatch, Cost Explorer, Boto3." />
+<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-cost.svg" width="100%" alt="Cost Optimization Dashboard, −25% cloud cost, ~$50K saved per year, 5 AWS accounts. Grafana, CloudWatch, Cost Explorer, Boto3." />
 </a>
 </td>
 <td width="33%" valign="top">
 <a href="https://s3cretagent.github.io/projects/database-migration/">
-<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-db.svg" width="100%" alt="Database Migration Automation — 0s downtime, 1.1B rows synced, 148 tables. Python, Boto3, AWS DMS, Debezium, Kafka." />
+<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-db.svg" width="100%" alt="Database Migration Automation, 0s downtime, 1.1B rows synced, 148 tables. Python, Boto3, AWS DMS, Debezium, Kafka." />
 </a>
 </td>
 <td width="33%" valign="top">
 <a href="https://s3cretagent.github.io/projects/kubernetes-provisioning/">
-<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-k8s.svg" width="100%" alt="Kubernetes Cluster Provisioning — 25 EKS clusters, under 30 minutes onboarding, 99.95% uptime. Terraform, EKS, Helm, IAM/IRSA." />
+<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-k8s.svg" width="100%" alt="Kubernetes Cluster Provisioning, 25 EKS clusters, under 30 minutes onboarding, 99.95% uptime. Terraform, EKS, Helm, IAM/IRSA." />
 </a>
 </td>
 </tr>
@@ -141,18 +141,18 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 
 <div align="center">
   <a href="https://s3cretagent.github.io/portfolio/#experience">
-    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-experience.svg" width="100%" alt="Experience — 5+ years in production" />
+    <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/sec-experience.svg" width="100%" alt="Experience, 5+ years in production" />
   </a>
 </div>
 
-[![Jul 2025 to now](https://img.shields.io/badge/JUL_2025_%E2%86%92_NOW-EAFF7A?style=for-the-badge)](https://s3cretagent.github.io/portfolio/#experience) **Software Engineer, DevOps** — Superhero Tech Pvt. Ltd.
-> EKS platform for 50+ microservices (HPA/VPA/Cluster Autoscaler, multi-AZ). 25 Terraform-provisioned clusters with remote state + locking. ArgoCD app-of-apps GitOps — no more manual `kubectl apply` in prod. AWS hardening with WAF, GuardDuty, SCPs and CloudTrail.
+[![Jul 2025 to now](https://img.shields.io/badge/JUL_2025_%E2%86%92_NOW-EAFF7A?style=for-the-badge)](https://s3cretagent.github.io/portfolio/#experience) **Software Engineer, DevOps**, Superhero Tech Pvt. Ltd.
+> EKS platform for 50+ microservices (HPA/VPA/Cluster Autoscaler, multi-AZ). 25 Terraform-provisioned clusters with remote state + locking. ArgoCD app-of-apps GitOps, no more manual `kubectl apply` in prod. AWS hardening with WAF, GuardDuty, SCPs and CloudTrail.
 
-[![Apr 2022 to Jul 2025](https://img.shields.io/badge/APR_2022_%E2%86%92_JUL_2025-4CD8F5?style=for-the-badge)](https://s3cretagent.github.io/portfolio/#experience) **Software Engineer, Senior SRE** — Superhero Tech Pvt. Ltd.
+[![Apr 2022 to Jul 2025](https://img.shields.io/badge/APR_2022_%E2%86%92_JUL_2025-4CD8F5?style=for-the-badge)](https://s3cretagent.github.io/portfolio/#experience) **Software Engineer, Senior SRE**, Superhero Tech Pvt. Ltd.
 > Owned AWS at scale: 100+ EC2 in ASGs, Multi-AZ RDS PostgreSQL, Lambda, CloudFront, EKS, ECR. Architected MSK + Debezium CDC for sub-second OLTP→analytics replication. Read-replica topology cut primary DB load ~40%.
 
-[![Jun 2021 to Apr 2022](https://img.shields.io/badge/JUN_2021_%E2%86%92_APR_2022-A78BFA?style=for-the-badge)](https://s3cretagent.github.io/portfolio/#experience) **Software Engineer, SRE** — Treebo Hotels
-> Jenkins pipelines across ECS/EC2/S3 standardising deploys for 15+ microservices (−70% manual effort). SLI dashboards for P50/P95/P99 latency, error rate and saturation — +30% incident detection.
+[![Jun 2021 to Apr 2022](https://img.shields.io/badge/JUN_2021_%E2%86%92_APR_2022-A78BFA?style=for-the-badge)](https://s3cretagent.github.io/portfolio/#experience) **Software Engineer, SRE**, Treebo Hotels
+> Jenkins pipelines across ECS/EC2/S3 standardising deploys for 15+ microservices (−70% manual effort). SLI dashboards for P50/P95/P99 latency, error rate and saturation, giving +30% incident detection.
 
 <br />
 
@@ -162,7 +162,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
   </a>
 </div>
 
-**B.Tech, Computer Science & Engineering** — IK Gujral Punjab Technical University · `2018 – 2022`
+**B.Tech, Computer Science & Engineering** at IK Gujral Punjab Technical University · `2018 – 2022`
 
 [![AWS Educate Cloud 101](https://img.shields.io/badge/AWS_Educate-Cloud_101-14181F?style=for-the-badge&labelColor=FF9900&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNi42IDE5LjVBNC42IDQuNiAwIDAgMSA1LjggMTAuNGE2LjIgNi4yIDAgMCAxIDEyLTEuNiA0LjM1IDQuMzUgMCAwIDEtLjMgMTAuN0g2LjZaIi8+PC9zdmc+&logoColor=14181F)](https://aws.amazon.com/education/awseducate/)
 [![AWS Educate Solutions Architect](https://img.shields.io/badge/AWS_Educate-Solutions_Architect-14181F?style=for-the-badge&labelColor=FFAD33&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNNi42IDE5LjVBNC42IDQuNiAwIDAgMSA1LjggMTAuNGE2LjIgNi4yIDAgMCAxIDEyLTEuNiA0LjM1IDQuMzUgMCAwIDEtLjMgMTAuN0g2LjZaIi8+PC9zdmc+&logoColor=14181F)](https://aws.amazon.com/education/awseducate/)
@@ -174,7 +174,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 <div align="center">
 
 <a href="https://s3cretagent.github.io/portfolio/">
-  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/footer.svg" width="100%" alt="Open to reliability and platform engineering roles — shubhmalhotra07@gmail.com · s3cretagent.github.io/portfolio" />
+  <img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/footer.svg" width="100%" alt="Open to reliability and platform engineering roles, shubhmalhotra07@gmail.com · s3cretagent.github.io/portfolio" />
 </a>
 
 <a href="mailto:shubhmalhotra07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EAFF7A?style=for-the-badge&logo=gmail&logoColor=14181F" alt="Email" /></a>
