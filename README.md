@@ -121,7 +121,7 @@ Based in **Bhopal, Madhya Pradesh, India**, with 5+ years running production inf
 <tr>
 <td width="33%" valign="top">
 <a href="https://s3cretagent.github.io/projects/cost-optimisation/">
-<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-cost.svg" width="100%" alt="Cost Optimization Dashboard, −25% cloud cost, ~$50K saved per year, 5 AWS accounts. Grafana, CloudWatch, Cost Explorer, Boto3." />
+<img src="https://raw.githubusercontent.com/s3cretagent/s3cretagent/main/assets/card-cost.svg" width="100%" alt="Cost Optimization Dashboard, −20% cloud cost, ~$50K saved per year, 5 AWS accounts. Grafana, CloudWatch, Cost Explorer, Boto3." />
 </a>
 </td>
 <td width="33%" valign="top">

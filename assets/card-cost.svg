@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 310" width="480" height="310" role="img" aria-label="Cost Optimization Dashboard: multi-account cost observability with automated right-sizing. 25% cloud cost reduction, ~$50K saved per year, 5 AWS accounts. Built with Grafana, CloudWatch, Cost Explorer and Boto3.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 310" width="480" height="310" role="img" aria-label="Cost Optimization Dashboard: multi-account cost observability with automated right-sizing. 20% cloud cost reduction, ~$50K saved per year, 5 AWS accounts. Built with Grafana, CloudWatch, Cost Explorer and Boto3.">
   <defs>
     <linearGradient id="cAccent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="480" y2="0">
       <stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#F97316"/>
@@ -32,7 +32,7 @@
     <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
       <g transform="translate(22 108)">
         <rect width="136" height="52" rx="9" fill="#111721" stroke="#2A3441" stroke-width="1.3"/>
-        <text x="12" y="26" font-size="19" font-weight="700" fill="#FBBF24">−25%</text>
+        <text x="12" y="26" font-size="19" font-weight="700" fill="#FBBF24">−20%</text>
         <text x="12" y="42" font-size="9.5" fill="#8B98A8">CLOUD COST</text>
       </g>
       <g transform="translate(170 108)">
